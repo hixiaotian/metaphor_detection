@@ -1,3 +1,0 @@
-[submodule "google-ngrams"]
-	path = google-ngrams
-	url = ./google-ngrams/
